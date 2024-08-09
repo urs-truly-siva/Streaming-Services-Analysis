@@ -7,13 +7,11 @@ A comprehensive analysis of streaming services data, focusing on content trends,
 
 2. **Leading Country:** 🇺🇸 The United States leads in terms of the number of titles available, with India 💚 ranking 3rd, highlighting the significant content presence in these regions.
 
-3. **Top Streaming Service:**
-   - 📺 **Prime Video** has the largest number of movies, making it the most extensive service for movie content among the platforms analyzed.
+3. **Top Streaming Service:** 📺 **Prime Video** has the largest number of movies, making it the most extensive service for movie content among the platforms analyzed.
 
 4. **Age Group Distribution:** 🎞️ Movies rated 18+ are predominant, making up 51% of the total movie content. This indicates a strong inclination towards adult content across all platforms.
 
-5. **Age Group Focus by Platform:**
-   - 🔞 **Netflix, Prime Video, Hulu, and Disney+** all have more than 50% of their movie content rated for 18+, emphasizing a trend towards adult-oriented programming.
+5. **Age Group Focus by Platform:** 🔞 **Netflix, Prime Video, Hulu, and Disney+** all have more than 50% of their movie content rated for 18+, emphasizing a trend towards adult-oriented programming.
 
 6. **Correlation Insights**
    - **IMDb and Rotten Tomatoes Ratings:** 📈 A positive correlation of 0.66 suggests that higher-rated movies on IMDb are likely to have good ratings on Rotten Tomatoes as well.
