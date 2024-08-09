@@ -1,7 +1,7 @@
-# Streaming-Services-Analysis 🎬
+# **Streaming-Services-Analysis** 🎬
 A comprehensive analysis of streaming services data, focusing on content trends, age group distribution, and platform comparisons. Includes insights into dominant languages, leading countries, and correlations between IMDb ratings, Rotten Tomatoes ratings, and runtime. Features heatmap visualizations for in-depth data exploration.
 
-## Interpretations from Streaming Services Data Analysis
+## **Interpretations from Streaming Services Data Analysis**
 
 1. **Dominant Language:** 🌐 English is the most prevalent language across all streaming services, reflecting its global reach and popularity.
 
@@ -9,13 +9,11 @@ A comprehensive analysis of streaming services data, focusing on content trends,
 
 3. **Top Streaming Service:**
    - 📺 **Prime Video** has the largest number of movies, making it the most extensive service for movie content among the platforms analyzed.
-   - ![Prime Video](assets/prime-video-logo.png)
 
 4. **Age Group Distribution:** 🎞️ Movies rated 18+ are predominant, making up 51% of the total movie content. This indicates a strong inclination towards adult content across all platforms.
 
 5. **Age Group Focus by Platform:**
    - 🔞 **Netflix, Prime Video, Hulu, and Disney+** all have more than 50% of their movie content rated for 18+, emphasizing a trend towards adult-oriented programming.
-   - ![Netflix](assets/netflix-logo.png) ![Hulu](assets/hulu-logo.png) ![Disney+](assets/disney-plus-logo.png)
 
 6. **Correlation Insights**
    - **IMDb and Rotten Tomatoes Ratings:** 📈 A positive correlation of 0.66 suggests that higher-rated movies on IMDb are likely to have good ratings on Rotten Tomatoes as well.
